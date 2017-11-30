@@ -7,5 +7,3 @@ patch:
     - schema: luna_pinyin_tw       # 朙月拼音 臺灣正體模式
     - schema: emoji                # emoji表情
     - schema: terra_pinyin         # 地球拼音 dì qiú pīn yīn
-    - schema: bopomofo             # 注音
-    - schema: bopomofo_tw          # 注音 臺灣正體模式
