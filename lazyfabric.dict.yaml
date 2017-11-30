@@ -1,0 +1,13 @@
+# lazyfabric.dict.yaml
+---
+name: lazyfabric
+version: "2017.11.30"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.cn_en
+...
